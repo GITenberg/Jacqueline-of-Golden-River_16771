@@ -1,0 +1,35 @@
+_repo: Jacqueline-of-Golden-River_16771
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Egbert, H. M.
+    alias: Emanuel, Victor Rousseau
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '6921'
+    url: http://www.gutenberg.org/2009/agents/6921
+description: Cover -- Contents.
+gutenberg_issued: '2005-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Jacqueline of Golden River
+url: http://www.gutenberg.org/ebooks/16771
